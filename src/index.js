@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2020
+ */
+
 import logger from 'loglevel'
 import {startServer} from './start'
 
