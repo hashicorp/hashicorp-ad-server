@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2020
+ */
+
 const pkg = require('./package.json')
 
 module.exports = {

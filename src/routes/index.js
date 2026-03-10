@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2020
+ */
+
 import express from 'express'
 import {getMathRoutes} from './math'
 
